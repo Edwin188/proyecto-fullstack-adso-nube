@@ -8,7 +8,7 @@
 // const API_URL = "http://127.0.0.1:8000/tareas";
 
 // AHORA (En la nube - cambia '/tareas' por el endpoint de tu caso):
-const API_URL = "https://api-adso-grupo-1.onrender.com/medicamentos";
+const API_URL = "https://api-adso-grupo-1.onrender.com/tareas";
 
 // Elementos del DOM
 const formTarea = document.getElementById("form-tarea");
